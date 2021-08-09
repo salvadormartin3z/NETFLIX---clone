@@ -1,9 +1,12 @@
 # NETFLIX---clone
-✍️This is my first personal proyect where I aplied the things I´m learning🚀 
+✍️This is my first personal proyect where I aplied the things I´m learning🚀
+
 It´s a NETFLIX🎬 clone
 
 *In this proyect I used
+
 💻 HTML 5
+
 💻 CSS3 - BEM
 
 ->Home Page
