@@ -1,11 +1,11 @@
 # NETFLIX---clone
-✍️This is my first personal proyect where I aplied the things I´m learning🚀
+✍️This is my first personal project where I aplied the things I´m learning🚀
 
 🎬It´s a NETFLIX clone🎬
 
 
 
-🎨In this proyect I used🎨
+🎨In this project I used🎨
 
 💻 HTML 5
 
