@@ -1,11 +1,5 @@
 # NETFLIX---clone
-✍️This is my first personal project where I aplied the things I´m learning🚀
-
-🎬It´s a NETFLIX clone🎬
-
-
-
-🎨In this project I used🎨
+🎨Its not responsive :c🎨
 
 💻 HTML 5
 
